@@ -1195,6 +1195,7 @@ StringTable professions
 		{	String _name = "ProfessionMinerTip";		String _text = "Шахтёры добывают железо или уголь в шахте.";	}
 		{	String _name = "ProfessionMinerDeath";		String _text = "умирает под завалами шахты.";	}
 		{	String _name = "ProfessionStoneCutterTip";		String _text = "Каменщики добывают камень на каменоломнях.";	}
+		{	String _name = "ProfessionStoneCutter";		String _text = "Каменщик";	}
 		{	String _name = "ProfessionStoneCutterDeath";		String _text = "завалило грудой камней.";	}
 		{	String _name = "ProfessionTeacher";		String _text = "Учитель";	}
 		{	String _name = "ProfessionTeacherTip";		String _text = "Учителя дают горожанам образование, что увеличивает продуктивность работы последних.";	}
